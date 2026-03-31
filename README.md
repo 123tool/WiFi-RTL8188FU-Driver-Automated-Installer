@@ -31,8 +31,8 @@ Sebelum menjalankan script, pastikan Anda memiliki:
 ### 🐧 Linux (Kali/Ubuntu/Parrot)
 ```bash
 # Clone Repositori
-git clone [https://github.com/username-kamu/SPY-WiFi.git](https://github.com/username-kamu/SPY-WiFi.git)
-cd SPY-WiFi
+git clone [https://github.com/123tool/WiFi-RTL8188FU-Driver-Automated-Installer.git](https://github.com/123tool/WiFi-RTL8188FU-Driver-Automated-Installer.git)
+cd WiFi-RTL8188FU-Driver-Automated-Installer
 
 # Jalankan Script
 sudo python3 spy_wifi.py
